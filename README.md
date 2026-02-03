@@ -83,4 +83,5 @@ ___
 
 In project are more scripts or systems, but not all of them are working well, some of them i took from other my projects only for few functions. 
 
-I am not going to continue developing this project because it has many architectural misstakes to fix them i need to re write whole project, ыo I decided not to continue it. I need to gain experience, ideas, and think through the architecture and everything that will be implemented in the game in advance.
+
+I am not going to continue developing this project because it has many architectural misstakes to fix them i need to re write whole project, so I decided not to continue it. I need to gain experience, ideas, and think through the architecture and everything that will be implemented in the game in advance.
